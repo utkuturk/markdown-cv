@@ -500,7 +500,7 @@ Co-supervised with Todd Ehlers
 **Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Tuija Luhta and Kati Oinonen
 
-`2018-present`
+`2018-2021`
 **Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2019-2020`
