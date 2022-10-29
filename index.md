@@ -113,21 +113,21 @@ University of Maryland, College Park, MD 20742<br/>
 ### Organization
 
 `2022`
-**Conference chair**, *Student Conference on Linguistics*, Istanbul, Turkey. [`http://scol.boun.edu.tr/scol22`](http://scol.boun.edu.tr/scol22)
+**Conference chair**, *Student Conference on Linguistics*, Istanbul, Turkey. [http://scol.boun.edu.tr/scol22](http://scol.boun.edu.tr/scol22)
 
 `2021`
-**Proceedings reviewer**, *Workshop on Turkic and Languages in Contact with Turkish*, *Linguistic Society of America*, Toronto, Canada. [`LSA Archive`](http://journals.linguisticsociety.org/proceedings/index.php/tu/issue/view/176)
+**Proceedings reviewer**, *Workshop on Turkic and Languages in Contact with Turkish*, *Linguistic Society of America*, Toronto, Canada. [LSA Archive](http://journals.linguisticsociety.org/proceedings/index.php/tu/issue/view/176)
 
 `2020`
-**Conference chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [`http://busctel.boun.edu.tr/`](http://busctel.boun.edu.tr/)
+**Conference chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [http://busctel.boun.edu.tr/](http://busctel.boun.edu.tr/)
 
-**Proceedings reviewer**, *Workshop on Turkic and Languages in Contact with Turkish*, Neward, DE, USA. [`LSA Archive`](http://journals.linguisticsociety.org/proceedings/index.php/tu/issue/view/170)
+**Proceedings reviewer**, *Workshop on Turkic and Languages in Contact with Turkish*, Neward, DE, USA. [LSA Archive](http://journals.linguisticsociety.org/proceedings/index.php/tu/issue/view/170)
 
 `2019`
-**Reviewer and session chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [`https://busctel19.weebly.com/`](https://busctel19.weebly.com/)
+**Reviewer and session chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [https://busctel19.weebly.com/](https://busctel19.weebly.com/)
 
 `2018`
-**Reviewer and session chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [`https://busctel18.weebly.com/`](https://busctel18.weebly.com/)
+**Reviewer and session chair**, *Bogazici University Student Conference in Theoretical and Experimental Linguistics (BUSCTEL)*, Istanbul, Turkey. [https://busctel18.weebly.com/](https://busctel18.weebly.com/)
 
 ### Presentations
 
@@ -178,7 +178,7 @@ S. Ozdemir and **U. Turk**. "An Investigation into the Nature of the Turkish Gli
 
 ## Teaching
 
-Links: <i class="fa-solid fa-memo"></i> = syllabus, <i class="fab fa-github"></i> = course GitHub page
+Links: <i class="fal fa-copy"></i> = syllabus, <i class="fab fa-github"></i> = course GitHub page
 
 ### Teaching asistant
 
@@ -188,46 +188,46 @@ Links: <i class="fa-solid fa-memo"></i> = syllabus, <i class="fab fa-github"></i
 `Spring 2022`
 
 `Fall 2021`
-Ling 101: Introduction to Linguistics I, Instructor: Mine Nakipoglu. (&asymp; 80 students) <a href="https://utkuturk.com/files/syli/101_f21.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Mine Nakipoglu. (&asymp; 80 students) <a href="https://utkuturk.com/files/syli/101_f21.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 203: Syntax, Instructor: Balkiz Ozturk. (&asymp; 80 students) <a href="https://utkuturk.com/files/syli/203_f21.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 203: Syntax, Instructor: Balkiz Ozturk. (&asymp; 80 students) <a href="https://utkuturk.com/files/syli/203_f21.pdf"><i class="fal fa-copy"></i></a>
 
 `Spring 2021`
-Ling 101: Introduction to Linguistics I, Instructor: Pavel Logacev. (&asymp; 125 students) <a href="https://utkuturk.com/files/syli/101_s21.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Pavel Logacev. (&asymp; 125 students) <a href="https://utkuturk.com/files/syli/101_s21.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 314: Syntax \& Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 90 students) <a href="https://utkuturk.com/files/syli/314_s21.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 314: Syntax & Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 90 students) <a href="https://utkuturk.com/files/syli/314_s21.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 484: Computational Methods in Linguistics, Instructor: Umit Atlamaz. (&asymp; 50 students) <a href="https://utkuturk.com/files/syli/484_s21.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 484: Computational Methods in Linguistics, Instructor: Umit Atlamaz. (&asymp; 50 students) <a href="https://utkuturk.com/files/syli/484_s21.pdf"><i class="fal fa-copy"></i></a>
         
 `Fall 2020`
-Ling 101: Introduction to Linguistics I, Instructor: Omer Demirok. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_f20.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Omer Demirok. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_f20.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 203: Syntax, Instructor: Balkiz Ozturk. (&asymp; 50 students) <a href="https://utkuturk.com/files/syli/203_f20.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 203: Syntax, Instructor: Balkiz Ozturk. (&asymp; 50 students) <a href="https://utkuturk.com/files/syli/203_f20.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 411: Linguistic Methodology, Instructor: Pavel Loga\v{c}ev. (&asymp; 40 students) <a href="https://utkuturk.com/files/syli/411_f20.pdf"><i class="fa-solid fa-memo"></i></a><a href="https://github.com/plogacev/ling411_lecture_notes_R"><i class="fab fa-github"></i></a>
+Ling 411: Linguistic Methodology, Instructor: Pavel Logacev. (&asymp; 40 students) <a href="https://utkuturk.com/files/syli/411_f20.pdf"><i class="fal fa-copy"></i></a><a href="https://github.com/plogacev/ling411_lecture_notes_R"><i class="fab fa-github"></i></a>
 
 `Spring 2020`
-Ling 202: Morphology, Instructor: Asli Goksel. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/202_s20.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 202: Morphology, Instructor: Asli Goksel. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/202_s20.pdf"><i class="fal fa-copy"></i></a>
 
 Ling 206: Language Typology, Instructor: Metin Bagriacik. (&asymp; 40 students) 
         
 `Fall 2019`
-Ling 101: Introduction to Linguistics I, Instructor: Meltem Kelepir. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_f19.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Meltem Kelepir. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_f19.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 313: Phonology & Morphology of Turkish, Instructor: Asli Goksel. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f19.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 313: Phonology & Morphology of Turkish, Instructor: Asli Goksel. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f19.pdf"><i class="fal fa-copy"></i></a>
         
 `Spring 2019`
-Ling 101: Introduction to Linguistics I, Instructor: Elena Guerzoni. (&asymp; 70 students) <a href="https://utkuturk.com/files/syli/101_s19.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Elena Guerzoni. (&asymp; 70 students) <a href="https://utkuturk.com/files/syli/101_s19.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 314: Syntax \& Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/314_s19.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 314: Syntax \& Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/314_s19.pdf"><i class="fal fa-copy"></i></a>
         
 `Fall 2018`
-Ling 313: Phonology \& Morphology of Turkish, Instructor: Kadir Gokgoz. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f18.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 313: Phonology \& Morphology of Turkish, Instructor: Kadir Gokgoz. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f18.pdf"><i class="fal fa-copy"></i></a>
         
 `Spring 2018`
-Ling 101: Introduction to Linguistics I, Instructor: Pavel Logacev. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_s18.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 101: Introduction to Linguistics I, Instructor: Pavel Logacev. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_s18.pdf"><i class="fal fa-copy"></i></a>
 
-Ling 102: Intro to Linguistics II, Instructor: Mine Nakipoglu. (&asymp; 60 students) <a href="https://utkuturk.com/files/syli/102_s18.pdf"><i class="fa-solid fa-memo"></i></a>
+Ling 102: Intro to Linguistics II, Instructor: Mine Nakipoglu. (&asymp; 60 students) <a href="https://utkuturk.com/files/syli/102_s18.pdf"><i class="fal fa-copy"></i></a>
 
 `2018–2019`
 *Turkish Language and Culture Program, Bogazici University*, Istanbul, Turkey<br/>Graded and provided feedback on written/spoken assignments<br/>Planned and taught weekly discussions and carried out cultural activities
@@ -266,7 +266,7 @@ Societas Linguistica Europaea
 
 ## Personal
 
-Birth date: 22 June 11994
+Birth date: 22 June 1994
 
 Citizenship: Turkey
 
