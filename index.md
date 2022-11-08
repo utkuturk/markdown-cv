@@ -93,6 +93,9 @@ University of Maryland, College Park, MD 20742<br/>
 
 ### Refereed Conference Proceedings
 
+<!-- `2022`
+S. Canalis, S. Ozdemir, **U. Turk**, and U. C. Tuncer. "When glides are obstruents, or Turkish [j]." In ... (eds.), *Proceedings of the 20th International Conference on Turkish Linguistics*, Publisher, 2022. -->
+
 `2021`
 **U. Turk**, O. Demirok. Hypothetical Comparison in Turkish. In S. Gundogdu, S. Taghipour, & A. Peters (eds.), *Proceedings of the 6th workshop on Turkic and languages in contact with Turkic*, LSA, doi: [10.3765/ptu.v6i1.5054](https://doi.org/10.3765/ptu.v6i1.5054), 2021. 
 
@@ -137,6 +140,8 @@ University of Maryland, College Park, MD 20742<br/>
 **U. Turk** and P. Logacev. "Response bias manipulation in Turkish agreement attraction." AMLaP 2021: Architectures and Mechanisms for Language Processing. September 3, 2021.
 
 K. Sampanis and **U. Turk**. "Defining borrowing hierarchies in the light of sociolinguistic and geodemographic causation: contact-induced morphosyntactic change in Asia Minor Greek." 54th Annual Meeting of the Societas Linguistica Europaea. September 1, 2021.
+
+S. Canalis, S. Ozdemir, **U. Turk**, and U. C. Tuncer. "When glides are obstruents, or Turkish [j]."  The 20th International Conference on Turkish Linguistics. August 2, 2021. 
 
 **U. Turk** and O. Demirok. "Hypothetical Comparison in Turkish." PLC45: The 45th Penn Linguistics Conference. March 19-21, 2021.
 
@@ -186,6 +191,9 @@ Links: <i class="fa-solid fa-file"></i> = syllabus, <i class="fab fa-github"></i
 *Department of Linguistics, Bogazici University*, Istanbul, Turkey<br/>Graded and provided feedback on written assignments<br/>Planned and taught weekly discussions
 
 `Spring 2022`
+Ling 314: Syntax & Semantics of Modern Turkish, Instructor: Umit Atlamaz. (&asymp; 40 students) <a href="https://utkuturk.com/files/syli/314_s22.pdf"><i class="fa-solid fa-file"></i></a>
+
+Ling 360: Computational Methods in Linguistics, Instructor: Umit Atlamaz. (&asymp; 40 students) <a href="https://utkuturk.com/files/syli/360_s22.pdf"><i class="fa-solid fa-file"></i></a>
 
 `Fall 2021`
 Ling 101: Introduction to Linguistics I, Instructor: Mine Nakipoglu. (&asymp; 80 students) <a href="https://utkuturk.com/files/syli/101_f21.pdf"><i class="fa-solid fa-file"></i></a>
@@ -219,10 +227,10 @@ Ling 313: Phonology & Morphology of Turkish, Instructor: Asli Goksel. (&asymp; 1
 `Spring 2019`
 Ling 101: Introduction to Linguistics I, Instructor: Elena Guerzoni. (&asymp; 70 students) <a href="https://utkuturk.com/files/syli/101_s19.pdf"><i class="fa-solid fa-file"></i></a>
 
-Ling 314: Syntax \& Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/314_s19.pdf"><i class="fa-solid fa-file"></i></a>
+Ling 314: Syntax & Semantics of Turkish, Instructor: Balkiz Ozturk. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/314_s19.pdf"><i class="fa-solid fa-file"></i></a>
         
 `Fall 2018`
-Ling 313: Phonology \& Morphology of Turkish, Instructor: Kadir Gokgoz. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f18.pdf"><i class="fa-solid fa-file"></i></a>
+Ling 313: Phonology & Morphology of Turkish, Instructor: Kadir Gokgoz. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/313_f18.pdf"><i class="fa-solid fa-file"></i></a>
         
 `Spring 2018`
 Ling 101: Introduction to Linguistics I, Instructor: Pavel Logacev. (&asymp; 100 students) <a href="https://utkuturk.com/files/syli/101_s18.pdf"><i class="fa-solid fa-file"></i></a>
